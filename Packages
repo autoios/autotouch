@@ -16,3 +16,19 @@ Description: Record and playback touch operations, play macro scripts automatica
 Author: Kent Krantz <kentkrantz@gmail.com>
 Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
 Name: AutoTouch with inputText
+
+Package: com.ienthach.ChangeAppleID
+Version: 1.10-1
+Architecture: iphoneos-arm
+Maintainer: Nguyen Quang Vu (ienthach) <ienthach87@gmail.com>
+Depends: firmware (>= 9.0), com.rpetrich.rocketbootstrap, mobilesubstrate
+Filename: debs/ChangeAppleID_1.10-1_Release.deb
+Size: 2122578
+MD5sum: 8ffc4678ba8875de37498f3a57717f48
+SHA1: 5df8588befeb2d9f7625e974ed997723b2a904a9
+SHA256: 6f8eec49e041d283b41df0e0150b989cc910aa691602cd696f5740417af04ec0
+Section: Utilities
+Homepage: http://XoaInfo.com/
+Description: Change apple store account
+Author: Nguyen Quang Vu (ienthach) <ienthach87@gmail.com>
+Name: ChangeAppleID
