@@ -41,10 +41,10 @@ Installed-Size: 74872
 Depends: firmware (>= 11.0), com.ex.substitute
 Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
 Filename: debs/me.autotouch.autotouch.ios8.inputtext_8.0.11_iphoneos-arm.deb
-Size: 32506464
-MD5sum: 5740cb2b5fad6d9d1ce26d4a3e04dea0
-SHA1: 1a6ca45745aeeb65534c432596e0affe4463d8e0
-SHA256: 4be248f55133bfcc42203b761a69288f585e7bdf32a3e19551fe55b9e03fdf8e
+Size: 21299886
+MD5sum: 2105ad3ebb040615246f87b749ef2808
+SHA1: 9511e9e5db986f8937e73a9f491e385d746d2470
+SHA256: 28443ce46c7ec362bebdc1ed39ba850678410503fd267fa12004f95a50dcb56d
 Section: Utilities
 Priority: optional
 Homepage: https://autotouch.net
