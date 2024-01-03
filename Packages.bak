@@ -32,3 +32,23 @@ Homepage: http://XoaInfo.com/
 Description: Change apple store account
 Author: Nguyen Quang Vu (ienthach) <ienthach87@gmail.com>
 Name: ChangeAppleID
+
+Package: me.autotouch.autotouch.ios8.inputtext
+Version: 8.0.11
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 74872
+Depends: firmware (>= 11.0), com.ex.substitute
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/me.autotouch.autotouch.ios8.inputtext_8.0.11_iphoneos-arm.deb
+Size: 21299886
+MD5sum: 2105ad3ebb040615246f87b749ef2808
+SHA1: 9511e9e5db986f8937e73a9f491e385d746d2470
+SHA256: 28443ce46c7ec362bebdc1ed39ba850678410503fd267fa12004f95a50dcb56d
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch InputText
