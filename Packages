@@ -10,7 +10,6 @@ MD5sum: 241a55ba26d53f304b352cf68671a472
 SHA1: e1a073a57c30aef31924cfa5727e051d779f169f
 SHA256: c9d73e50a6b67a4b1b1c9b2e9ca674d86d5aa33d2076fa41e89dc882356404d8
 Section: Utilities
-Priority: optional
 Homepage: https://autoios.github.io/autotouch
 Description: Record and playback touch operations, play macro scripts automatically.
 Author: Kent Krantz <kentkrantz@gmail.com>
