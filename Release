@@ -1,11 +1,11 @@
-Origin: Autoios Pro Repo
-Label: Autoios Pro Repo
+Origin: Autoios AutoTouch Rootful
+Label: Autoios AutoTouch Rootful
 Suite: stable
 Version: 1.0
 Codename: ios
 Architecture: iphoneos-arm
 Components: main
-Description: Autoios Pro for iDevice Model 10.x - 12.2 & 12.4 & Checkra1n Jailbreaks
+Description: Autoios AutoTouch Rootful
 MD5Sum:
  343b0a6a5d1a4e4d52240f8d9abeb7e0 1344 Packages
  89b022b70b81e23cd37a437ba04e9742 797 Packages.bz2
