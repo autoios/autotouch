@@ -17,18 +17,18 @@ Author: Kent Krantz <kentkrantz@gmail.com>
 Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
 Name: AutoTouch with inputText
 
-Package: com.ienthach.ChangeAppleID
-Version: 1.10-1
+Package: com.autoios.autotouchhackv8
+Name: AutoTouchHack
+Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: Nguyen Quang Vu (ienthach) <ienthach87@gmail.com>
-Depends: firmware (>= 9.0), com.rpetrich.rocketbootstrap, mobilesubstrate
-Filename: debs/ChangeAppleID_1.10-1_Release.deb
-Size: 2122578
-MD5sum: 8ffc4678ba8875de37498f3a57717f48
-SHA1: 5df8588befeb2d9f7625e974ed997723b2a904a9
-SHA256: 6f8eec49e041d283b41df0e0150b989cc910aa691602cd696f5740417af04ec0
-Section: Utilities
-Homepage: http://XoaInfo.com/
-Description: Change apple store account
-Author: Nguyen Quang Vu (ienthach) <ienthach87@gmail.com>
-Name: ChangeAppleID
+Description: An awesome MobileSubstrate tweak!
+Maintainer: autoios
+Author: autoios
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Homepage: https://autoios.github.io/autotouch
+Filename: debs/com.autoios.autotouchhackv8_0.0.1-1_iphoneos-arm.deb
+Size: 5024
+MD5sum: 52a23a8163fd1d03f2f79d470ec31b75
+SHA1: 80891b4b9b538bb6c7daf796e1f59cfee531709f
+SHA256: 20cc991d549f2077ed3a3e464aef41a1161c2c2bce171ea4763b30fc971c6769
