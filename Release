@@ -1,12 +1,12 @@
-Origin: Autoios AutoTouch Rootful
-Label: Autoios AutoTouch Rootful
+Origin: Autoios AutoTouch
+Label: Autoios AutoTouch
 Suite: stable
 Version: 1.0
 Codename: ios
 Architecture: iphoneos-arm
 Components: main
-Description: Autoios AutoTouch Rootful
+Description: Autoios AutoTouch
 MD5Sum:
- 52567af6519de9557012c50e4d037384 523 Packages
- f177bac08b21bd3d6af5f5fe708a5ea4 404 Packages.bz2
- 2dc110f31c932e76807c2a543dd32bdd 374 Packages.gz
+ a8de543c28ee10dbb00fdd96b12f3d64 820 Packages
+ a1858c20a427ff99fe82ceba77983467 582 Packages.bz2
+ 183828db26f8eecbc4f5550c463d9961 525 Packages.gz

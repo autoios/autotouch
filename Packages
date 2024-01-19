@@ -1,15 +1,17 @@
-Package: com.autoios.autotouchhackv8
-Name: AutoTouchHack
-Version: 0.0.1
+Package: me.autotouch.autotouch.ios8.inputtext
+Version: 7.1.6
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: autoios
-Author: autoios
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/autotouch-7.1.6-1.deb
+Size: 28096158
+MD5sum: 241a55ba26d53f304b352cf68671a472
+SHA1: e1a073a57c30aef31924cfa5727e051d779f169f
+SHA256: c9d73e50a6b67a4b1b1c9b2e9ca674d86d5aa33d2076fa41e89dc882356404d8
+Section: Utilities
 Homepage: https://autoios.github.io/autotouch
-Filename: debs/com.autoios.autotouchhackv8_0.0.1-1_iphoneos-arm.deb
-Size: 5024
-MD5sum: 52a23a8163fd1d03f2f79d470ec31b75
-SHA1: 80891b4b9b538bb6c7daf796e1f59cfee531709f
-SHA256: 20cc991d549f2077ed3a3e464aef41a1161c2c2bce171ea4763b30fc971c6769
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch with inputText
