@@ -7,6 +7,6 @@ Architecture: iphoneos-arm
 Components: main
 Description: Autoios AutoTouch
 MD5Sum:
- a8de543c28ee10dbb00fdd96b12f3d64 820 Packages
- a1858c20a427ff99fe82ceba77983467 582 Packages.bz2
- 183828db26f8eecbc4f5550c463d9961 525 Packages.gz
+ ad8d42b691d9fb9aa96c530d7b332550 1426 Packages
+ e2d7c8a90ab8cc2d72355a0086640e9d 859 Packages.bz2
+ 3a91dfe7a7ef503807cd07c1bc4945a5 760 Packages.gz
